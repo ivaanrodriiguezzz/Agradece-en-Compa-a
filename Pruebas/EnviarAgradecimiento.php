@@ -21,8 +21,7 @@
                     <php?
                         <option value="1"></option>
                         <!--value seria el identificador del alumno el nombre que vaya dentro del option seria el nombre del alumno
-                        se añadiran filas de agradecimiento en la base de datos 
-                        -->
+                        se añadiran filas de agradecimiento en la base de datos-->
                     ?>
                 </select>
             </form>
